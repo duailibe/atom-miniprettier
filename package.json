@@ -1,0 +1,19 @@
+{
+  "name": "miniprettier",
+  "main": "./lib/main",
+  "version": "0.0.0",
+  "description": "Zero config plugin to run Prettier in Atom",
+  "keywords": [
+  ],
+  "repository": "https://github.com/duailibe/atom-miniprettier",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "prettier": "1.12.1"
+  },
+  "prettier": {
+    "singleQuote": true
+  }
+}
