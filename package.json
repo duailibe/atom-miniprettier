@@ -10,7 +10,7 @@
     "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {
-    "prettier": "1.12.1"
+    "prettier": "1.13.7"
   },
   "prettier": {
     "singleQuote": true
